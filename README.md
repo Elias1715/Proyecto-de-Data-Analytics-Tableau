@@ -1,3 +1,8 @@
+<img width="1365" height="722" alt="Dasboards" src="https://github.com/user-attachments/assets/3cbe0cda-435e-4906-a835-f00938d2ea57" />
+
+
+
+
 # 📊 Análisis de Ventas — Tableau Portfolio
 
 Proyecto de Data Analytics desarrollado con **Tableau** a partir de una base de ventas trabajada previamente en Excel.
